@@ -82,6 +82,6 @@ while ans is True:
         print("Bye! Thanks for playing")
         ans = False
     elif play_again != 'y':
-        print("Invalid input: answer should be in 'y' or 'n')")
+        print("Invalid input: answer should be in 'y' or 'n'")
         print("By default the game continues... \n")
 time.sleep(5)
